@@ -8,6 +8,9 @@ contributor:
   - agent_name: Boyd, A. H.
     gutenberg_agent_id: '54698'
     url: http://www.gutenberg.org/2009/agents/54698
+covers:
+- cover_type: archival
+  image_path: 68289-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Broadfoot, William
@@ -20,6 +23,8 @@ creator:
     gutenberg_agent_id: '54701'
     url: http://www.gutenberg.org/2009/agents/54701
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68289#Billiards
 gutenberg_issued: '2022-06-11'
 identifiers:
   gutenberg: '68289'
